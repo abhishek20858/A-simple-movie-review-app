@@ -4,3 +4,6 @@ This a simple movie review app where you can add your reviews for a particular m
 when a new movie gets released. This is a fun app to create every beginners should try and implement it. 
 
 There's no need to setup anything you can just have a look at the code and you can edit it which suits you.
+
+![image](https://user-images.githubusercontent.com/77113784/191969215-03f4393b-dfef-4a6d-8a86-9a86a0e22aac.png)
+
